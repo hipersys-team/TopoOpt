@@ -1,0 +1,9 @@
+[submodule "simulation/FlexNet"]
+	path = simulation/FlexNet
+	url = https://github.com/hipersys-team/FlexFlow
+[submodule "testbed/topoopt_ff_testbed"]
+	path = testbed/topoopt_ff_testbed
+	url = git@github.com:hipersys-team/topoopt_ff_testbed.git
+[submodule "testbed/dlrm_torch"]
+	path = testbed/dlrm_torch
+	url = git@github.com:hipersys-team/dlrm.git

@@ -7,3 +7,6 @@
 [submodule "testbed/dlrm_torch"]
 	path = testbed/dlrm_torch
 	url = git@github.com:hipersys-team/dlrm.git
+[submodule "simulation/FlexNetPacket"]
+	path = simulation/FlexNetPacket
+	url = git@github.com:Flasew/ffsim-opera.git

@@ -17,6 +17,7 @@ This repository contains the necessary code base to generate the simuation and t
 
 ## 2. Repository Structure
 | Folder                         | Description                                                      |
+| -------------------------------|------------------------------------------------------------------|
 | `simulation`                   | Source code necessary to generate the simulation result          | 
 | `simulation/FlexNet`           | FlexNet simulator that implements the topology search algorithms |
 | `simulation/FlexNetPacket`     | FlexNetPacket simulator for packet level simulation              |

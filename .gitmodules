@@ -10,3 +10,6 @@
 [submodule "simulation/FlexNetPacket"]
 	path = simulation/FlexNetPacket
 	url = git@github.com:Flasew/ffsim-opera.git
+[submodule "testbed/imagenet_training"]
+	path = testbed/imagenet_training
+	url = git@github.com:mingrany/trioml.git

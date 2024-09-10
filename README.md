@@ -11,7 +11,7 @@ In TopoOpt, we explore using reconfigurable optical interconnect to construct a 
 Specifically, TopoOpt creates dedicated partitions for each training job within the cluster, and jointly optimizes the topology and parallelization strategy of the job. To achieve this goal, we grapple with the algorithmic challenges of finding the best topology, such as how to navigate the large search space across computation, communication, and topology dimensions, and also with various operational challenges, such as which optical switching technologies match well with the traffic patterns of various DNN models. 
 
 For a full technical description on TopoOpt, please read our NSDI 2023 paper:
-> W. Wang, M. Khazraee, Z. Zhong, Z. Jia$, D. Mudigere, Y. Zhang, A. Kewitsch, M. Ghobadi, "TopoOpt: Optimizing the Network Topology for Distributed DNN Training" NSDI 2023. https://arxiv.org/abs/2202.00433
+> W. Wang, M. Khazraee, Z. Zhong, Z. Jia, D. Mudigere, Y. Zhang, A. Kewitsch, M. Ghobadi, "TopoOpt: Optimizing the Network Topology for Distributed DNN Training" NSDI 2023. https://arxiv.org/abs/2202.00433
 
 This repository contains the necessary code base to generate the simuation and testbed result of TopoOpt. For code questions, please contact Weiyang Wang at weiyangw [at] mit.edu. We welcome contributions and feedbacks.
 
